@@ -88,7 +88,7 @@ resulting in our conclusion that weight loss is affected by diet
 Following Anova we are performing Tukey’s Procedure to identify
 significantly different diet type since its the only categorical variable under
 consideration
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture6.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920088-aee46000-cfb6-11e8-8890-fa88a7d4e3a6.PNG)
 
 We can see that diet types 1,3 and 1,2 have absolute mean difference
 greater than W (critical value) .Hence we can clearly say that diet type 3 is
@@ -100,15 +100,15 @@ predictors for regression were Diet, Age and Height. We perform an OLS
 regression to fit our predicted values using these independent variables.
 Intercepts of linear regression:
 ### Model Output:
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture7.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920090-b441aa80-cfb6-11e8-8f27-70503111a998.PNG)
 
 ## Quantile-Quantile Plot
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture9.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920091-b73c9b00-cfb6-11e8-9d65-c51d416eafac.PNG)
 We can see that the residuals in the qq plot follow linearity thus satisfying
 the assumption of normality between predictor variables
 
 ## Boxplot of Residuals:
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture10.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920093-b9065e80-cfb6-11e8-86eb-692e81bbe995.PNG)
 The boxplot depicts the range of residuals of each data type. We can
 confidently say that the error residual median for diet 3 is positive whereas
 for diet 2, median is negative suggesting positive and negative difference
