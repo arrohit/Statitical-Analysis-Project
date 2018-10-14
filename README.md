@@ -28,7 +28,7 @@ diet plan is 6 weeks after which their weight was noted. The weight loss
 was calculated by subtracting a person’s weight before and after the diet.
 The dataset is non-partitioned and the single data set is used to perform
 analysis.
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture1.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920075-9d9b5380-cfb6-11e8-9895-92c09fab2a04.PNG)
 Metadata Description:
 Person : Index for each person
 Gender : Male=0 Female =1
@@ -42,12 +42,12 @@ Weight_loss: pre.weight - weight6weeks in Kg (Dependant Variable)
 ## Data Summary
 The below table gives an overall description of the data giving quantitative
 measures like mean,median and quartile ranges
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture2.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920078-9ffdad80-cfb6-11e8-8037-1679b97b9bcd.PNG)
 
 ## Box Plot for Distribution of Weight Loss for 3 Diet types:
 The below plot shows the range of weight losses for different diet types
 Inferences obtained from the boxplot:
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture3.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920079-a2600780-cfb6-11e8-96d0-7629d14ccb87.PNG)
 
 1. We can see that the medians of weight loss for diet 1 and 2 are
 similar, but there is a significant increase in weight loss for diet 3 and
@@ -57,7 +57,7 @@ has a higher range of values.
 ## Correlation Plot
 The Following heatmap shows the correlation between the different
 variables and weight loss
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture4.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920084-ab50d900-cfb6-11e8-92fd-3eb2df0fc151.PNG)
 
 We can see that the diet type,weight before/after 6 weeks,gender,height
 have the high correlation to weight loss(dependant variable)
@@ -80,7 +80,7 @@ We perform ANOVA using the OLS model we created with Height , Age
 and Diet as the predictor variables.
 ANOVA Output:
 From the ANOVA Table ,
-![](file:///C:/Users/arroh/OneDrive/Pictures/Statistics%20project/Capture5.PNG)
+![](https://user-images.githubusercontent.com/32817147/46920086-ad1a9c80-cfb6-11e8-9122-a64592f64d31.PNG)
 
 P value (Diet) =0.020865 < 0.05 So we fail to accept null hypothesis
 resulting in our conclusion that weight loss is affected by diet
